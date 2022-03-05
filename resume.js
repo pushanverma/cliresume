@@ -31,7 +31,7 @@ function displayList()
         }
         else if(ans.selection ==='Education')
         {
-            cp.execSync('start chrome https://drive.google.com/drive/u/0/my-drive')
+            cp.execSync('start chrome https://drive.google.com/file/d/1rzx1lqn9A-IR6b9AXUqSQ6myjN52IkeG/view?usp=sharing')
             displayNext();
         }
         else
